@@ -1,0 +1,7 @@
+###
+
+GET {{baseUrl}}/hello
+
+### delete post without auth
+
+POST {{baseUrl}}/1/delete
